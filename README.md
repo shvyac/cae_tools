@@ -1,5 +1,13 @@
 # Interesting Category
 
+https://github.com/topics/sdr
+
+https://github.com/topics/raspberry-pi
+
+https://github.com/topics/arduino
+
+https://github.com/topics/project-management
+
 https://github.com/topics/deep-learning
 
 https://github.com/topics/machine-learning
