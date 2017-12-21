@@ -1,7 +1,7 @@
 
-[Examples](https://guides.github.com/features/mastering-markdown/#examples)
+[Markdown Examples](https://guides.github.com/features/mastering-markdown/#examples)
 
-[Syntax guide](https://guides.github.com/features/mastering-markdown/#syntax)
+[Markdown Syntax guide](https://guides.github.com/features/mastering-markdown/#syntax)
 
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
