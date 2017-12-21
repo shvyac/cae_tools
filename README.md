@@ -29,9 +29,13 @@
 **This text is _extremely_ important**
 ```
 **This is bold text**
+
 *This text is italicized*
+
 ~~This was mistaken text~~
+
 **This text is _extremely_ important**
+
 ```
 In the words of Abraham Lincoln:
 > Pardon my French
