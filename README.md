@@ -1,5 +1,9 @@
 
- [Examples](https://guides.github.com/features/mastering-markdown/#examples)
+[Examples](https://guides.github.com/features/mastering-markdown/#examples)
+[Syntax guide](https://guides.github.com/features/mastering-markdown/#syntax)
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+[Organizing information with tables](https://help.github.com/articles/organizing-information-with-tables/)
 
 
 ```
