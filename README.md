@@ -8,24 +8,39 @@
 ## CFD
 ### MBS
 #### FEM
-```
 ----
 ```
 ----
-
-# The largest heading
-## The second largest heading
-### three
-###### The smallest heading
-
+```
+----
+```
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+```
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+----
+```
 **This is bold text**
 *This text is italicized*
 ~~This was mistaken text~~
 **This text is _extremely_ important**
-
+```
+**This is bold text**
+*This text is italicized*
+~~This was mistaken text~~
+**This text is _extremely_ important**
+```
 In the words of Abraham Lincoln:
 > Pardon my French
-
+```
+In the words of Abraham Lincoln:
+> Pardon my French
+```
+Use `git status` to list all new or modified files that haven't yet been committed.
+```
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 Some basic Git commands are:
