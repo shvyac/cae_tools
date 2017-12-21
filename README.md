@@ -1,5 +1,5 @@
 
-[Markdown Examples](https://guides.github.com/features/mastering-markdown/#examples)
+<h2>[Markdown Examples](https://guides.github.com/features/mastering-markdown/#examples)
 
 [Markdown Syntax guide](https://guides.github.com/features/mastering-markdown/#syntax)
 
