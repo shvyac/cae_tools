@@ -1,3 +1,10 @@
+
+# Mechanical Engineering
+
+[awesome-fem](https://github.com/ali7line/awesome-fem#awesome-fem) A curated list of awesome Finite Element Modeling frameworks, libraries and software
+
+----
+
 # Interesting Category
 
 https://github.com/sindresorhus/awesome
