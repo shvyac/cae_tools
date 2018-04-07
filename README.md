@@ -5,7 +5,7 @@
 
 ----
 
-# Interesting Category
+# Interesting Category 2
 
 https://github.com/sindresorhus/awesome
 
