@@ -6,30 +6,21 @@
 | [awesome-fem](https://github.com/ali7line/awesome-fem#awesome-fem) | A curated list of awesome Finite Element Modeling frameworks, libraries and software |
 
 ----
-https://github.com/thangchung/awesome-dotnet-core .NET Core
-
 
 # Interesting Category 2
 
-https://github.com/sindresorhus/awesome AWESOME
-
-https://github.com/topics/sdr SDR
-
-https://github.com/topics/raspberry-pi Raspberry Pi
-
-https://github.com/topics/arduino Arduino
-
-https://github.com/topics/project-management Project Management
-
-https://github.com/marketplace/category/project-management Project Management
-
-https://github.com/topics/deep-learning Deep Learning
-
-https://github.com/topics/machine-learning Machine Learning
-
-https://github.com/collections/machine-learning Machine Learning
-
-------------------
+| Awesome Site  | Memo |
+| ------------- | ------------- |
+| https://github.com/thangchung/awesome-dotnet-core |  .NET Core |
+| https://github.com/sindresorhus/awesome | AWESOME |
+| https://github.com/topics/sdr  | SDR |
+| https://github.com/topics/raspberry-pi  | Raspberry Pi |
+| https://github.com/topics/arduino  | Arduino |
+| https://github.com/topics/project-management  | Project Management |
+| https://github.com/marketplace/category/project-management | Project Management |
+| https://github.com/topics/deep-learning | Deep Learning |
+| https://github.com/topics/machine-learning | Machine Learning |
+| https://github.com/collections/machine-learning | Machine Learning |
 
 ----------------------------------
 
