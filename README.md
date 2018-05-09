@@ -9,23 +9,23 @@ https://github.com/thangchung/awesome-dotnet-core .NET Core
 
 # Interesting Category 2
 
-https://github.com/sindresorhus/awesome
+https://github.com/sindresorhus/awesome AWESOME
 
-https://github.com/topics/sdr
+https://github.com/topics/sdr SDR
 
-https://github.com/topics/raspberry-pi
+https://github.com/topics/raspberry-pi Raspberry Pi
 
-https://github.com/topics/arduino
+https://github.com/topics/arduino Arduino
 
-https://github.com/topics/project-management
+https://github.com/topics/project-management Project Management
 
-https://github.com/marketplace/category/project-management
+https://github.com/marketplace/category/project-management Project Management
 
-https://github.com/topics/deep-learning
+https://github.com/topics/deep-learning Deep Learning
 
-https://github.com/topics/machine-learning
+https://github.com/topics/machine-learning Machine Learning
 
-https://github.com/collections/machine-learning
+https://github.com/collections/machine-learning Machine Learning
 
 ------------------
 
