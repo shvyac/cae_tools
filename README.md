@@ -1,5 +1,3 @@
-# slack installed 2018-07-24
-
 # Mechanical Engineering
 
 | Awesome Site  | Memo |
